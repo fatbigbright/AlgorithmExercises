@@ -1,0 +1,12 @@
+Boise,-10
+Missoula,5
+Hartford,40
+Chicago,60
+Los Angeles,80
+Albuquerque,80
+Phoenix,100
+Yuma,100
+Detroit,30
+Franchot,0
+Kandakee,10
+Hilo,98

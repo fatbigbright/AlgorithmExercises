@@ -1,0 +1,5 @@
+Chicago,30
+NewYork,25
+Washingdon,28
+Tianjin,34
+Beijing,33
