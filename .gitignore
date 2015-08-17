@@ -33,3 +33,7 @@
 
 # tags
 tags
+
+# editor related
+*.swp
+*~

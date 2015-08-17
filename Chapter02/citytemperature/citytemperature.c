@@ -112,6 +112,8 @@ int main(int argc, char* argv[])
 	header = NULL;
 	tail = NULL;
 
+	fclose(inputFile);
+
 	return 0;
 }
 
